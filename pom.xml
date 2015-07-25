@@ -20,19 +20,19 @@
 		<dependency>
 			<groupId>org.bukkit</groupId>
 			<artifactId>bukkit</artifactId>
-			<version>1.7.10-R0.1-SNAPSHOT</version>
+			<version>1.8.7-R0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<repositories>
             <repository>
                 <id>repobo-snap</id>
-                <url>http://repo.bukkit.org/content/groups/public</url>
+                <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
             </repository>
     </repositories>
     <pluginRepositories>
         <pluginRepository>
             <id>bukkit-plugins</id>
-            <url>http://repo.bukkit.org/content/groups/public</url>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </pluginRepository>
     </pluginRepositories>
 	<build>
